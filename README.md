@@ -26,7 +26,7 @@ this directory. The structure of the data is shown below:
 }
 ```
 
-## Your mission:
+## Project Description:
 
 A hospital wants an API interface into their patient records. They all know
 how to use the command line and build `curl` requests really well, so no need
