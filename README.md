@@ -96,6 +96,5 @@ curl -X DELETE http://localhost:3000/patient/1
 The client would like to know what you would do on this project if
 given more time as well as what you thought the most and least
 challenging parts of the project were. Please write some thoughts on
-both of these topics in a file called `REFLECTION.md` (bulleted lists
-are okay).
+both of these topics in a file called `REFLECTION.md`.
 
