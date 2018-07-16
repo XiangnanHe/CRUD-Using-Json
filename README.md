@@ -1,3 +1,19 @@
+## Project Description:
+
+A hospital wants an API interface into their patient records. They all know
+how to use the command line and build `curl` requests really well, so no need
+for a GUI, just the API.
+
+The patient information they have given you to get started is found in the
+`MOCK_DATA.json` file and is a json array containing information for exactly
+1000 patients.
+
+(Because the patients don't always supply the information you request, sometimes
+their patient record is incomplete, so make sure you handle empty fields!)
+
+The client should be able to perform both searching and CRUD operations as
+defined below.
+
 ## Data
 
 The data is a json array from the file `MOCK_DATA.json` in
@@ -25,22 +41,6 @@ this directory. The structure of the data is shown below:
   ]
 }
 ```
-
-## Project Description:
-
-A hospital wants an API interface into their patient records. They all know
-how to use the command line and build `curl` requests really well, so no need
-for a GUI, just the API.
-
-The patient information they have given you to get started is found in the
-`MOCK_DATA.json` file and is a json array containing information for exactly
-1000 patients.
-
-(Because the patients don't always supply the information you request, sometimes
-their patient record is incomplete, so make sure you handle empty fields!)
-
-The client should be able to perform both searching and CRUD operations as
-defined below.
 
 ### Searching
 
