@@ -1,22 +1,6 @@
-# Myndshft Applicant Take Home
-
-## Introduction
-
-The Myndshft Applicant Take-Home is a programming exercise that is built to
-allow you to display your programming abilities. At Myndshft we have two
-primary languages, Golang and Python3. You are welcome to use either of
-these two languages for this task. You are also welcome to use any web
-framework of your choice!
-
-## Time Limit
-
-2 Hours.
-
-Please don't take any longer as we want to be respectful of your time.
-
 ## Data
 
-The data is available to you in a json array from the file `MOCK_DATA.json` in
+The data is a json array from the file `MOCK_DATA.json` in
 this directory. The structure of the data is shown below:
 
 ```json
@@ -115,9 +99,3 @@ challenging parts of the project were. Please write some thoughts on
 both of these topics in a file called `REFLECTION.md` (bulleted lists
 are okay).
 
-
-## Reminders!
-
-- Don't forget to `git push` regularly.
-- Have fun!
-- Contact Tyler Wince (tyler@myndshft.com) or Stephen Meyers (stephen@myndshft.com) if you have any questions!
